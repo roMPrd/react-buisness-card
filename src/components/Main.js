@@ -10,7 +10,7 @@ function Main () {
         <a href='https://romprd.github.io/'>romprd.github.io</a>
       </div>
       <div className='button--bio'>
-        <a href="mailto: rom.delimal@gmail.com" target="_blank">
+        <a href="mailto: rom.delimal@gmail.com" target="_blank" rel="noreferrer">
           <img src={Email} alt='linkedin'/>
           <span>Email</span>
         </a>
