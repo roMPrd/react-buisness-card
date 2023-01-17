@@ -1,6 +1,14 @@
+/* ===== General ===== */
+
 .bio--container {
   padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
 }
+
+/* ===== Title ===== */
 
 .bio--container a {
   text-decoration: none;
@@ -14,9 +22,30 @@
   color: #F3BF99;
 }
 
-.button--bio button{
+/* ===== Button ===== */
+
+.button--bio a {
+  background-color: white;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  border-radius: 8px;
+}
+.button--bio span,
+.button--bio img {
+  margin: 0 5px;
+}
+.button--bio span {
   color: black;
 }
+.button--bio img {
+  height: 1rem;
+}
+
+/* ===== About & Interests ===== */
+
 .bio--container .about p,
 .bio--container .interests p{
   font-size: 0.8rem;

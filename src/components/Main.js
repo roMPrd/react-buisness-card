@@ -1,3 +1,4 @@
+import Email from '../images/email.png'
 import './Main.css'
 
 function Main () {
@@ -6,10 +7,13 @@ function Main () {
       <div className='title--bio'>
         <h2>Romain Delimal</h2>
         <p>FullStack Developer</p>
-        <a href='https://romprd.github.io/'>Portfolio</a>
+        <a href='https://romprd.github.io/'>romprd.github.io</a>
       </div>
       <div className='button--bio'>
-        <button className='Email'>Email</button>
+        <a href="mailto: rom.delimal@gmail.com" target="_blank">
+          <img src={Email} alt='linkedin'/>
+          <span>Email</span>
+        </a>
       </div>
       <div className="about">
         <h3>About</h3>
