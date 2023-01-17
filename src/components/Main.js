@@ -2,17 +2,16 @@ import './Main.css'
 
 function Main () {
   return (
-    <>
+    <div className='bio--container'>
       <div className='title--bio'>
-        <h1>Romain Delimal</h1>
-        <h4>FullStack Developer</h4>
+        <h2>Romain Delimal</h2>
+        <p>FullStack Developer</p>
         <a href='https://romprd.github.io/'>Portfolio</a>
       </div>
-      <div className='Buttons'>
+      <div className='button--bio'>
         <button className='Email'>Email</button>
-        <button className='Linkedin'>LinkedIn</button>
       </div>
-      <div className="About">
+      <div className="about">
         <h3>About</h3>
         <p>I'm a FullStack Web Developer.
           I recently graduated from LeWagon's bootcamp in Paris.
@@ -20,14 +19,14 @@ function Main () {
           I'm currently learning React.
         </p>
       </div>
-      <div className="Interests">
+      <div className="interests">
         <h3>Interests</h3>
         <p>
           code enthusiast, Basketball fan.
         </p>
       </div>
-    </>
-  )
+    </div>
+  );
 }
 
 export default Main;

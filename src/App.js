@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <div className="main--container">
         <img id='profile-photo' src={PhotoProfile} alt='profile' />
-      <Main />
-      <Footer />
+        <Main />
+        <Footer />
       </div>
     </div>
   );

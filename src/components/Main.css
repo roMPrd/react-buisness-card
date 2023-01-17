@@ -1,0 +1,23 @@
+.bio--container {
+  padding: 30px;
+}
+
+.bio--container a {
+  text-decoration: none;
+}
+
+.bio--container .title--bio {
+  text-align: center;
+}
+
+.title--bio p {
+  color: #F3BF99;
+}
+
+.button--bio button{
+  color: black;
+}
+.bio--container .about p,
+.bio--container .interests p{
+  font-size: 0.8rem;
+}
