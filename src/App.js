@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <div className="main--container">
         <img id='profile-photo' src={PhotoProfile} alt='profile' />
-      </div>
       <Main />
+      </div>
     </div>
   );
 }
