@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf618621.css",
-    "main.js": "/static/js/main.7f1bf6d0.js",
-    "static/js/787.764a73ff.chunk.js": "/static/js/787.764a73ff.chunk.js",
-    "static/media/photoProfile.jpg": "/static/media/photoProfile.3e329a36c269ba7bf5f6.jpg",
-    "index.html": "/index.html",
-    "main.cf618621.css.map": "/static/css/main.cf618621.css.map",
-    "main.7f1bf6d0.js.map": "/static/js/main.7f1bf6d0.js.map",
-    "787.764a73ff.chunk.js.map": "/static/js/787.764a73ff.chunk.js.map"
+    "main.css": "/react-buisness-card/static/css/main.cf618621.css",
+    "main.js": "/react-buisness-card/static/js/main.30a925b9.js",
+    "static/js/787.764a73ff.chunk.js": "/react-buisness-card/static/js/787.764a73ff.chunk.js",
+    "static/media/photoProfile.jpg": "/react-buisness-card/static/media/photoProfile.3e329a36c269ba7bf5f6.jpg",
+    "index.html": "/react-buisness-card/index.html",
+    "main.cf618621.css.map": "/react-buisness-card/static/css/main.cf618621.css.map",
+    "main.30a925b9.js.map": "/react-buisness-card/static/js/main.30a925b9.js.map",
+    "787.764a73ff.chunk.js.map": "/react-buisness-card/static/js/787.764a73ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf618621.css",
-    "static/js/main.7f1bf6d0.js"
+    "static/js/main.30a925b9.js"
   ]
 }
