@@ -19,7 +19,7 @@ function Main () {
         <h3>About</h3>
         <p>I'm a FullStack Web Developer.
           I recently graduated from LeWagon's bootcamp in Paris.
-          I'm passionate about coding and try to consolidate my knowledge.
+          I'm passionate about coding and i'm eager to learn.
           I'm currently learning React.
         </p>
       </div>
